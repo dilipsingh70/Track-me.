@@ -1,0 +1,5 @@
+{
+  "name": "Track Me",
+  "description": "An intelligent workout tracker to log exercises, visualize progress, and build weekly splits. Automatically loads your daily workout to make tracking fast and effortless.",
+  "requestFramePermissions": []
+}
